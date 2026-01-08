@@ -14,6 +14,7 @@ body {
   overflow: hidden;
 }
 #display {
+  color: white;
   width: 100%;
   padding: 20px;
   font-size: 5rem;
