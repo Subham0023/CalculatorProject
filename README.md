@@ -17,20 +17,6 @@ A clean and modern calculator web application built with HTML, CSS, and JavaScri
 - CSS3
 - Vanilla JavaScript
 
-## Installation
-
-1. Clone the repository:
-```bash
-   git clone https://github.com/yourusername/simple-calculator.git
-```
-
-2. Navigate to the project directory:
-```bash
-   cd simple-calculator
-```
-
-3. Open `index.html` in your web browser
-
 ## Usage
 
 - Click number buttons (0-9) to input numbers
@@ -48,19 +34,7 @@ simple-calculator/
 └── README.md       # Project documentation
 ```
 
-## Screenshots
-
-![Calculator Interface](screenshot.png)
-*Add a screenshot of your calculator here*
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 ## Author
 
-Your Name - [Your GitHub Profile](https://github.com/yourusername)
+Your Name - [Your GitHub Profile](https://github.com/Subham0023)
