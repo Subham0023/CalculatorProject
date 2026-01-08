@@ -37,4 +37,4 @@ simple-calculator/
 
 ## Author
 
-Subham Das - [Subham Das](https://github.com/Subham0023)
+Subham Das - [Subham0023](https://github.com/Subham0023)
