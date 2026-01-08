@@ -37,4 +37,4 @@ simple-calculator/
 
 ## Author
 
-Your Name - [Your GitHub Profile](https://github.com/Subham0023)
+Subham Das - [Subham Das](https://github.com/Subham0023)
